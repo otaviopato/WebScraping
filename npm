@@ -1,0 +1,35 @@
+
+> sleep@6.3.0 install C:\Users\otavio\Desktop\RPA\node_modules\sleep
+> node-gyp rebuild
+
+
+C:\Users\otavio\Desktop\RPA\node_modules\sleep>if not defined npm_config_node_gyp (node "C:\Program Files\nodejs\node_modules\npm\node_modules\npm-lifecycle\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (node "C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\bin\node-gyp.js" rebuild ) 
+Compilando os projetos desta solu‡Æo um de cada vez. Para habilitar o build paralelo, adicione a op‡Æo "/m".
+  module_init.cc
+  sleep_cpp11.cc
+  sleep_posix.cc
+  sleep_win.cc
+  win_delay_load_hook.cc
+     Criando biblioteca C:\Users\otavio\Desktop\RPA\node_modules\sleep\build\Release\node_sleep.lib e objeto C:\Users\otavio\Desktop\RPA\node_modules\sleep\build\Release\node_sleep.exp
+  node_sleep.vcxproj -> C:\Users\otavio\Desktop\RPA\node_modules\sleep\build\Release\\node_sleep.node
+
+> puppeteer@13.3.2 install C:\Users\otavio\Desktop\RPA\node_modules\puppeteer
+> node install.js
+
+Chromium (961656) downloaded to C:\Users\otavio\Desktop\RPA\node_modules\puppeteer\.local-chromium\win64-961656
+
+> sharp@0.29.3 install C:\Users\otavio\Desktop\RPA\node_modules\sharp
+> (node install/libvips && node install/dll-copy && prebuild-install) || (node install/can-compile && node-gyp rebuild && node install/dll-copy)
+
+sharp: Downloading https://github.com/lovell/sharp-libvips/releases/download/v8.11.3/libvips-8.11.3-win32-x64.tar.br
+sharp: Creating C:\Users\otavio\Desktop\RPA\node_modules\sharp\build\Release
+sharp: Copying DLLs from C:\Users\otavio\Desktop\RPA\node_modules\sharp\vendor\8.11.3\win32-x64\lib to C:\Users\otavio\Desktop\RPA\node_modules\sharp\build\Release
++ i@0.3.7
++ venom-bot@4.0.5
+added 387 packages from 495 contributors and audited 504 packages in 96.673s
+
+52 packages are looking for funding
+  run `npm fund` for details
+
+found 5 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details

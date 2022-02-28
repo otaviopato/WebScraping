@@ -1,0 +1,24 @@
+{
+  "name": "rpa",
+  "version": "1.0.0",
+  "description": "Basic tests of RPA using mainly python",
+  "main": "spam.py",
+  "scripts": {
+    "dev:spam": "nodemon --exec python spam.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rpa",
+    "spam",
+    "python"
+  ],
+  "author": "Otavio Pato <https://github.com/otaviopato>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "i": "^0.3.7",
+    "venom-bot": "^4.0.5"
+  }
+}
