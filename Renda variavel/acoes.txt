@@ -1,0 +1,42 @@
+
+RENDA VARIÁVEL 
+Data e hora da consulta: 28-02-2022 16:23
+-------------------- 
+IBOVESPA 113.142
+DOLAR R$5,16
+BITCOIN R$212.944
+PETRÓLEO R$96,19
+GOLL4 R$17,28
+VIIA3 R$3,79
+PETR4 R$34,00
+BCFF11 R$68,20
+MGLU3 R$6,01
+--------------------
+
+RENDA VARIÁVEL 
+Data e hora da consulta: 28-02-2022 16:23
+-------------------- 
+IBOVESPA 113.142
+DOLAR R$5,16
+BITCOIN R$212.952
+PETRÓLEO R$96,27
+GOLL4 R$17,28
+VIIA3 R$3,79
+PETR4 R$34,00
+BCFF11 R$68,20
+MGLU3 R$6,01
+--------------------
+
+RENDA VARIÁVEL 
+Data e hora da consulta: 28-02-2022 16:25
+-------------------- 
+IBOVESPA 113.142
+DOLAR R$5,16
+BITCOIN R$212.415
+PETRÓLEO R$96,17
+GOLL4 R$17,28
+VIIA3 R$3,79
+PETR4 R$34,00
+BCFF11 R$68,20
+MGLU3 R$6,01
+--------------------
